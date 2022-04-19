@@ -1,0 +1,4 @@
+tableauserverclient
+pandas
+vertica-connector-talenttech==1.2.0
+etl-helper-talenttech==1.4.1
